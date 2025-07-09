@@ -1,2 +1,1 @@
-# CloudTestnetBridgeFrameworkPro
-Advanced CloudTestnetBridgeFrameworkPro project
+.
